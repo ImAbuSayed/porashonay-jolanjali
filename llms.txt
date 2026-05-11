@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/porashonay-jolanjali/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Porashonay Jolanjali](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/porashonay-jolanjali/) |
+| **Get License** | [License this song: Porashonay Jolanjali](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/porashonay-jolanjali/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অন্ধকারে খুঁজি আমি তোমার চেনা মুখ
+> হৃদয় মাঝে লুকিয়ে আছে অসীম কিছু সুখ
+> হারিয়ে যাওয়া স্বপ্নগুলো ডাকছে আবার পিছে
+> তুমি ছাড়া আমার পৃথিবী আজ বড়ই মিছে
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `6dc77abc5da384d4677f67847a04d3407988ab282ff3913035b7e81467a1c25d` |
 | **Timestamp** | May 11, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

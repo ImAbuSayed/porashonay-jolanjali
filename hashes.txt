@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Porashonay Jolanjali
+
+This log tracks the cryptographic history and versioning for the song **Porashonay Jolanjali** (porashonay-jolanjali).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-11T09:33:56.386420 | `v1` | `6dc77abc5da384d4677f67847a04d3407988ab282ff3913035b7e81467a1c25d` | `6b06627efdf1457c276230c6d2ec953ef530009d2d2a27dd53deaca8b58860c6` | `2026-05-11_porashonay-jolanjali-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
